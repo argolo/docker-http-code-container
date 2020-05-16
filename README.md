@@ -12,12 +12,12 @@ $ docker container run -p 8000:8000 argolo/http-code
 ```sh
 $ open http://localhost:8000/202
 ```
-![202 Code](202.png)
+![202 Code](https://github.com/argolo/docker-http-code-container/blob/master/202.png)
 
 ```sh
 $ open http://localhost:8000/504
 ```
-![504 Code](504.png)
+![504 Code](https://github.com/argolo/docker-http-code-container/blob/master/504.png)
 
 ## Author
 | [![André Argôlo](https://avatar.argolo.dev/.jpg?s=80&r=g&d=wavatar "André Argôlo")](https://argolo.dev) |
