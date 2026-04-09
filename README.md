@@ -20,6 +20,6 @@ $ open http://localhost:8000/504
 ![504 Code](https://github.com/argolo/docker-http-code-container/raw/master/504.png)
 
 ## Author
-| [![André Argôlo](https://avatar.argolo.dev/.jpg?s=80&r=g&d=wavatar "André Argôlo")](https://argolo.dev) |
+| [![André Argôlo](https://avatar.argolo.dev?s=80&r=g&d=wavatar "André Argôlo")](https://argolo.dev) |
 | ------ |
 | [André Argôlo](https://argolo.dev) |
